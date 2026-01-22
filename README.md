@@ -10,7 +10,7 @@
   <br>
 
   <p>
-    👋 <b>Hello, I'm Puriza0.</b><br>
+    👋 <b>Hello, I'm Puriza.</b><br>
     I am a <b>Game Client Developer</b> & <b>Student</b> in South Korea 🇰🇷.<br>
     Founder of <b>Puriza Games</b>, focusing on creating immersive experiences.
   </p>
